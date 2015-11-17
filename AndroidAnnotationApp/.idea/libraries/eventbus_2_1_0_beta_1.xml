@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="eventbus-2.1.0-beta-1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/eventbus-2.1.0-beta-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jackson-all-1.9.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/osmdroid-android-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/osmdroid-third-party-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-log4j12-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-android-auth-1.0.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-android-core-1.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-android-rest-template-1.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
